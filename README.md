@@ -1,12 +1,18 @@
 # Car Plate Detection & OCR
 
 ## Development
-Develop in your own branch:
+Create and develop in your own branch:
+
 an - Zhi An
+
 sia - Sia
+
 alfi - Alfi
+
 natalie - Natalie
+
 joanne - Joanne
+
 
 Once the branch is ready to merge to the main branch, create a pull request.
 
