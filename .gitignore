@@ -1,6 +1,7 @@
 ﻿.idea
 
 data
-video
 
-datasets
+models
+
+prototype-yolov11/datasets
