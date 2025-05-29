@@ -4,8 +4,8 @@ import sys
 
 # --- Configuration ---
 SOURCE_BASE_DIR = "cvat_datasets"
-DEST_VIDEO_DIR = os.path.join("data", "video")
-DEST_ANNOTATION_DIR = os.path.join("data", "annotation", "cvat")
+DEST_VIDEO_DIR = os.path.join("../../data", "video")
+DEST_ANNOTATION_DIR = os.path.join("../../data", "annotation", "cvat")
 START_NUM = 1
 END_NUM = 58
 # --- End Configuration ---

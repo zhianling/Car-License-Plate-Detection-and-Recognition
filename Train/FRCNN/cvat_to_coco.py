@@ -9,7 +9,7 @@ from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
 # --- Configuration ---
-BASE_DATA_DIR = "data"
+BASE_DATA_DIR = "../../data"
 CVAT_ANNOTATION_DIR = os.path.join(BASE_DATA_DIR, "annotation", "cvat")
 VIDEO_DIR = os.path.join(BASE_DATA_DIR, "video")
 COCO_ANNOTATION_DIR = os.path.join(BASE_DATA_DIR, "annotation", "coco")
