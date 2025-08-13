@@ -1,20 +1,5 @@
 # Car Plate Detection & OCR
 
-## Development
-Create and develop in your own branch:
-
-an - Zhi An
-
-sia - Sia
-
-alfi - Alfi
-
-natalie - Natalie
-
-joanne - Joanne
-
-Once the branch is ready to merge to the main branch, create a pull request.
-
 ## Clone This Repository
 ```bash
 git clone https://github.com/zhianling/Car-License-Plate-Detection-and-Recognition.git
@@ -37,5 +22,6 @@ conda env create -f environment.yml
 
 `Program` directory - Working demo of the program. In the directory, download the models.7z and unzip. On terminal 
 run `python ./car_plate_gui.py`.
+
 
 `Train` directory - Contains training scripts for YOLOv8, Faster R-CNN, and EasyOCR.
